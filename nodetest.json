@@ -1,0 +1,14 @@
+{
+  "name": "cse-341",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playground-3.mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node playground-3.mongodb.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
