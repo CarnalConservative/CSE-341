@@ -1,0 +1,20 @@
+{
+  "professionalName": "Frank Brosell",
+  "nameLink": {
+    "firstName": "Frank",
+    "url": "https://www.linkedin.com"
+  },
+  "primaryDescription": " — web services student and developer.",
+  "workDescription1": "Building Node.js APIs and tabletop game tools.",
+  "workDescription2": "Focused on clean routes, controllers, and deployable services.",
+  "linkTitleText": "Connect with me",
+  "linkedInLink": {
+    "text": "LinkedIn",
+    "link": "https://www.linkedin.com"
+  },
+  "githubLink": {
+    "text": "GitHub",
+    "link": "https://github.com"
+  },
+  "base64Image": ""
+}
