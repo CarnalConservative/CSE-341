@@ -1,0 +1,8 @@
+### Home
+GET http://localhost:3000/
+
+### All contacts
+GET http://localhost:3000/contacts
+
+### One contact — paste a real _id from Week2.contacts
+GET http://localhost:3000/contacts/68f1aaaaaaaaaaaaaaaaaaaa

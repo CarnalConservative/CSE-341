@@ -1,5 +1,1 @@
-const getName = (req, res) => {
-  res.send('Vince Cuda');
-};
-
-module.exports = { getName };
+getDb().db().collection('contacts')
