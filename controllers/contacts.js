@@ -1,5 +1,5 @@
 const { ObjectId } = require('mongodb');
-const mongodb = require('../db/connect');
+const mongodb = require('../Week2/connect');
 
 const getAll = async (req, res) => {
   try {
